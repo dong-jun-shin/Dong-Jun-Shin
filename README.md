@@ -16,11 +16,11 @@
   </p>
   <br/>
 </div>
-<div class="footer" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dong-Jun-Shin&&show_icons=true&hide=contribs&theme=nord" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dong-Jun-Shin&layout=compact&theme=nord" />
-  </a>
+<div class="footer" align="center" >
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="40%" height="174px" src="https://github-readme-stats.vercel.app/api?username=Dong-Jun-Shin&&show_icons=true&hide=contribs&theme=nord" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="40%" height="174px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dong-Jun-Shin&layout=compact&theme=nord" />
+    </a>
 </div>

@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi!%20There%20👋&fontSize=90)
+![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dong-Jun-Shin&&show_icons=true&hide=contribs&theme=slateorange)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dong-Jun-Shin&layout=compact&theme=slateorange)
 
 <!--
 **Dong-Jun-Shin/Dong-Jun-Shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

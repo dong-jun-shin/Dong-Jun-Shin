@@ -17,14 +17,13 @@
     If you want to contact me, please leave me a mail!
   </p>
   <br/>
-  <h3>📁&nbsp;Experience</h3>
+  <h3>🔨&nbsp;Experience</h3>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]UBISTORM</strong> > Worked in Solution Technical support team <i>(Apr 2020 ~ Mar 2021)</i> <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Edu]미래능력교육원</strong> > Learn web server development <i>(Jul 2019 ~ Apr 2021)</i> <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Edu]그린컴퓨터아카데미</strong> > Learn Application Java SW Engineering <i>(Aug 2018 ~ Oct 2018)</i> <br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Edu]Hanyang Cyber Univ.</strong> > Graduated in Computer Science <i>(Mar 2018 ~ Aug 2021)</i> <br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Edu]Hanyang Cyber Univ.</strong> > Graduated in Computer Science <i>(Mar 2018 ~ Aug 2021)</i>
   </p>
-  <br/>
   <h3>💡&nbsp;Summary</h3>
   <p>
 <!--     &nbsp;&nbsp;&nbsp;&nbsp;- 🔭 I’m currently working on ... <br/> -->
@@ -32,8 +31,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;- 🕖 I enjoy guitar, movie, music and exercise. <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- 📒 I regularly write articles on my blog. <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- 💬 Ask me about Anything. <br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;- 📫 How to reach me: Blog Comment, Mail <br/>
-    
+    &nbsp;&nbsp;&nbsp;&nbsp;- 📫 How to reach me: Blog Comment, Mail
   </p>
   <br/>
   <div>

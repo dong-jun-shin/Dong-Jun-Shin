@@ -35,8 +35,9 @@
   </p>
   <br/>
   <div>
-    ✨&nbsp;<a target="_blank" href="https://dong-jun-shin.github.io/about/profile">More detail profile(Click me!)</a><br/>
-    📂&nbsp;<a target="_blank" href="https://rustic-fa-62b.notion.site/2e36d4cad27d4f44ae3fc32128a14bdc">More detail portfolio(Click me!)</a>
+    <h3>🔅To open a new tab, Click the wheel!🔅</h3>
+    &nbsp;&nbsp;&nbsp;&nbsp;✨&nbsp;<a target="_blank" href="https://dong-jun-shin.github.io/about/profile">More detail profile(Click me!)</a><br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;📂&nbsp;<a target="_blank" href="https://rustic-fa-62b.notion.site/2e36d4cad27d4f44ae3fc32128a14bdc">More detail portfolio(Click me!)</a>
   </div>
 </div>
 <div class="footer-content" align="left" width="100%">

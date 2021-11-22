@@ -36,6 +36,10 @@
     
   </p>
   <br/>
+  <div>
+    ✨&nbsp;<a href="https://dong-jun-shin.github.io/about/profile">More detail profile(Click me!)</a><br/>
+    📂&nbsp;<a href="https://dong-jun-shin.github.io/about/portfolio">More detail portfolio(Click me!)</a>
+  </div>
 </div>
 <div class="footer-content" align="left" width="100%">
     <a href="https://github.com/anuraghazra/github-readme-stats">

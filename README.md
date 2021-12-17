@@ -16,7 +16,7 @@
   <br/>
   <h3>Hello!</h3>
   <p>
-    I'm Dongjun Shin who is interested in Backend and IoT From South Korea.<br/>
+    I'm Dongjun Shin who is interested in Backend and IoT From South Korea.<br/> 
     If you want to contact me, please send me a email!
   </p>
   <br/>

@@ -33,7 +33,7 @@
   </p>
   <h3>💡&nbsp;Summary</h3>
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;- 📌 I'm interested in MSA Architecture, Cloud Infra. <br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;- 📌 I'm interested in MSA Architecture, Cloud Infra, AI, LLM. <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- 📒 I mostly read articles and write articles on my blog. <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- 🕖 I enjoy exercise. <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- 💬 Ask me about Anything. <br/>

@@ -23,13 +23,9 @@
   <h3>🔨&nbsp;Experience</h3>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]JNPMEDI</strong> > Worked in Solution Dev_2 Team, Maven Docs Part <i>(Oct 2023 ~ )</i> <br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Edu]Boost Course &lt;BEYOND AI BASIC&gt; Coaching Study: 2023 </strong> > Learn web server development <i>(May 2023 ~ June 2023)</i> <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]JNPMEDI</strong> > Worked in Solution Dev_2 Team <i>(Nov 2022 ~ Oct 2023)</i> <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]JNPMEDI</strong> > Worked in Solution Dev_1 Team <i>(Feb 2022 ~ Nov 2022)</i> <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]UBISTORM</strong> > Worked in Solution Technical support team <i>(Apr 2020 ~ Mar 2021)</i> <br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Edu]미래능력교육원</strong> > Learn web server development <i>(Jul 2019 ~ Apr 2021)</i> <br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Edu]그린컴퓨터아카데미</strong> > Learn Application Java SW Engineering <i>(Aug 2018 ~ Oct 2018)</i> <br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Edu]Hanyang Cyber Univ.</strong> > Graduated in Computer Science <i>(Mar 2018 ~ Aug 2021)</i>
   </p>
   <h3>💡&nbsp;Summary</h3>
   <p>

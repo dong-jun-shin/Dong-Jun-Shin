@@ -22,10 +22,11 @@
   <br/>
   <h3>🔨&nbsp;Experience</h3>
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]JNPMEDI</strong> > Worked in Solution Dev_2 Team, Maven Docs Part <i>(Oct 2023 ~ )</i> <br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]t'order</strong> > Worked in Middleware Team <i>(Apr 2024 ~ )</i> <br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]JNPMEDI</strong> > Worked in Solution Dev_2 Team, Maven Docs Part <i>(Oct 2023 ~ Apr 2024)</i> <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]JNPMEDI</strong> > Worked in Solution Dev_2 Team <i>(Nov 2022 ~ Oct 2023)</i> <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]JNPMEDI</strong> > Worked in Solution Dev_1 Team <i>(Feb 2022 ~ Nov 2022)</i> <br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]UBISTORM</strong> > Worked in Solution Technical support team <i>(Apr 2020 ~ Mar 2021)</i> <br/>
+    <!--&nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]UBISTORM</strong> > Worked in Solution Technical support team <i>(Apr 2020 ~ Mar 2021)</i> <br/>-->
   </p>
   <h3>💡&nbsp;Summary</h3>
   <p>

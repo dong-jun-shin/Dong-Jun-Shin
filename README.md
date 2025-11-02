@@ -4,38 +4,38 @@
   </a>
 </div>
 <div class="body-content" align="left" width="100%">
-  <a href="https://dong-jun-shin.github.io">
+  <!-- <a href="https://dong-jun-shin.github.io">
     <img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub&logoColor=black&color=white" />
   </a>
   <a href="mailto:tlsehdwns239@gmail.com">
     <img src="https://img.shields.io/badge/tlsehdwns239@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
+  </a> -->
 <!--   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDong-Jun-Shin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" />
   </a> -->
-  <br/>
+  <!-- <br/>
   <h3>Hello!</h3>
   <p>
     I'm Dongjun Shin who is interested in Backend From South Korea. <br/>
     If you want to contact me, please send me a email!
   </p>
-  <br/>
-  <h3>🔨&nbsp;Experience</h3>
+  <br/> -->
+  <!-- <h3>🔨&nbsp;Experience</h3>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]t'order</strong> > Worked in Middleware Team <i>(May 2024 ~ Dec 2024)</i> <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]JNPMEDI</strong> > Worked in Solution Dev_2 Team, Maven Docs Part <i>(Oct 2023 ~ Apr 2024)</i> <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]JNPMEDI</strong> > Worked in Solution Dev_2 Team <i>(Nov 2022 ~ Oct 2023)</i> <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]JNPMEDI</strong> > Worked in Solution Dev_1 Team <i>(Feb 2022 ~ Nov 2022)</i> <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- <strong>[Work]UBISTORM</strong> > Worked in Solution Technical support team <i>(Apr 2020 ~ Mar 2021)</i> <br/>
-  </p>
-  <h3>💡&nbsp;Summary</h3>
+  </p> -->
+  <!-- <h3>💡&nbsp;Summary</h3>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;- 📌 I'm interested in High-traffic Systems, Cloud Infra, AI, LLM. <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- 📒 I mostly read articles and write articles on my blog. <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- 🕖 I enjoy exercise. <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- 💬 Ask me about Anything. <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;- 📫 How to reach me: Blog Comment, Mail
-  </p>
+  </p> -->
   <br/>
   <div>
     <h3>🔅To open a new tab, Click the wheel!🔅</h3>

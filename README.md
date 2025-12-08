@@ -48,7 +48,7 @@
 <!--     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img style="width:49%;" src="https://github-readme-stats.vercel.app/api?username=Dong-Jun-Shin&&show_icons=true&hide=contribs&theme=nord" />
     </a> -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
       <img style="width:49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dong-Jun-Shin&layout=compact&theme=nord&exclude_repo=Dong-Jun-Shin.github.io" />
-    </a>
+    </a> -->
 </div>
